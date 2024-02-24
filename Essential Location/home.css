@@ -1,0 +1,65 @@
+body {
+    align-content: center;
+    background-image: linear-gradient(to right, #a3c9e2, #83ade3);
+    font-size: 75px;
+    font-weight: 700;
+    color: #fff;
+}
+
+h1 {
+    display: inline;
+}
+
+.imgb {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.imgd {
+
+    width: 500px;
+    height: 375px;
+    border-radius: 30px 30px 30px 30px;
+}
+
+.o {
+
+    background-image: linear-gradient(rgba(25, 187, 239, 0.705), rgba(58, 111, 215, 0.705));
+    opacity: 1;
+    display: flex;
+    align-content: center;
+    width: 50%;
+    border-radius: 30px 30px 30px 30px;
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+}
+
+.t {
+    margin-top: 20px;
+    background-image: linear-gradient(rgba(25, 185, 239, 0.705), rgba(58, 111, 215, 0.705));
+    opacity: 1;
+    display: flex;
+    align-content: center;
+    width: 50%;
+    border-radius: 30px 30px 30px 30px;
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.circle {
+    position: absolute;
+    top: 146px;
+    left: 910px;
+    border-radius: 38px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    background-image: linear-gradient(45deg, #fc00ff, #00dbde);
+}

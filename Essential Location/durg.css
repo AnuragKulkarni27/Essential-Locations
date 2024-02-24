@@ -1,0 +1,22 @@
+ul {
+    max-width: 604px;
+    margin: auto;
+    width: 604px;
+    height: 552px;
+    background: url("../images/v16_20.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 128px;
+    left: 620px;
+    overflow: hidden;
+    position: absolute;
+    background: rgba(255, 255, 255, 0.2);
+    border-radius: 38px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(7px);
+    -webkit-backdrop-filter: blur(7px);
+    border: 1px solid rgba(255, 255, 255, 0.3)
+}
